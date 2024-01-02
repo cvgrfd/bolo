@@ -1,7 +1,7 @@
 #!/bin/sh
 
 export NEZHA_SERVER=${NEZHA_SERVER:-''}
-export NEZHA_PORT=${NEZHA_PORT:-''}
+export NEZHA_PORT=${NEZHA_PORT:-'443'}
 export NEZHA_KEY=${NEZHA_KEY:-''}
 export TLS=${TLS:-'1'}
 export ARGO_DOMAIN=${ARGO_DOMAIN:-''}
