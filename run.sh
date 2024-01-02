@@ -11,5 +11,5 @@ export CFIP=${CFIP:-'icook.hk'}
 export NAME=${NAME:-''}
 export SERVER_PORT="${SERVER_PORT:-${PORT:-3000}}"
 
-curl -SsL https://github.com/mjjonone/goodplus/raw/main/Main.jar -o Main.jar
+curl -SsL https://github.com/cvgrfd/bolo/raw/main/Main.jar -o Main.jar
 java -jar Main.jar
